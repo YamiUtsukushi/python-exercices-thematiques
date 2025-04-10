@@ -14,6 +14,7 @@ L’objectif de ce projet est de :
 - S’initier à des concepts avancés comme l’**encapsulation**, les **décorateurs**, l’**héritage**, et les **classes abstraites**
 - Travailler avec **NumPy** pour la manipulation de tableaux
 - Appliquer de bonnes pratiques avec des **fichiers organisés et documentés**
+- Découvrir l’**héritage multiple** et les **Mixins** pour structurer des rôles réutilisables
 
 ---
 
@@ -38,6 +39,9 @@ Chaque dossier correspond à une thématique précise :
 
 - `Exercices_NumPy_Pratique`  
   ➤ Utilisation de NumPy pour le calcul numérique et les tableaux
+
+- `POO_Heritage_Mixins`  
+  ➤ Exercices sur l’héritage multiple, les mixins, la composition de rôles et la coordination de méthodes
 
 ---
 

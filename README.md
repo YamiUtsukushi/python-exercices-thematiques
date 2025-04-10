@@ -1,4 +1,4 @@
-# Projet d’Apprentissage Python – DORANCO
+# Projet d’Apprentissage Python – Nexa Digital School
 
 Bienvenue dans ce projet d’exercices Python, réalisé dans le cadre de ma formation chez **NEXA**.  
 Il regroupe des **exercices pratiques**, organisés par thème, pour maîtriser les différents aspects du langage Python.

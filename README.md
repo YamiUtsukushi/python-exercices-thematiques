@@ -44,13 +44,13 @@ Chaque dossier correspond à une thématique précise :
 ## 🔧 Utilisation
 
 Chaque dossier contient :
-- des fichiers `.py` ou `.ipynb` pour les exercices
 
-Les fichiers .py
-Ce sont les scripts Python contenant le code des exercices. Tu peux les exécuter directement dans un terminal ou un éditeur comme VS Code ou PyCharm.
-
-Les fichiers .ipynb (Jupyter Notebooks)
-Ces fichiers interactifs permettent de visualiser le code, les résultats et les explications dans un seul document. Parfait pour apprendre de manière progressive.
+- des fichiers `.py` ou `.ipynb` pour les exercices  
+  **Les fichiers `.py`**  
+  Ce sont les scripts Python contenant le code des exercices. Tu peux les exécuter directement dans un terminal ou un éditeur comme VS Code ou PyCharm.  
+  
+  **Les fichiers `.ipynb` (Jupyter Notebooks)**  
+  Ces fichiers interactifs permettent de visualiser le code, les résultats et les explications dans un seul document.
 
 - un fichier `README.md` qui décrit les objectifs des exercices du dossier
 

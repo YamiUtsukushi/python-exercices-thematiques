@@ -46,6 +46,7 @@ Chaque dossier correspond à une thématique précise :
 Chaque dossier contient :
 
 - des fichiers `.py` ou `.ipynb` pour les exercices  
+
   **Les fichiers `.py`**  
   Ce sont les scripts Python contenant le code des exercices. Tu peux les exécuter directement dans un terminal ou un éditeur comme VS Code ou PyCharm.  
   

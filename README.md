@@ -79,13 +79,13 @@ pip install numpy
 
 Chaque dossier correspond à une thématique précise :
 
-- `Fondamentaux_de_la_Classe_en_POO_Python`  
+- `Exercices_Fondamentaux_de_la_Classe_en_POO_Python`  
   ➤ Premiers pas avec les classes, méthodes, attributs, etc.
 
-- `Encapsulation_Decorateurs_Python`  
+- `Exercices_Encapsulation_Decorateurs_Python`  
   ➤ Encapsulation des données, visibilité, décorateurs personnalisés
 
-- `Heritage_Surcharge_Abstraites_Python`  
+- `Exercices_Heritage_Surcharge_Abstraites_Python`  
   ➤ POO avancée avec héritage, surcharge de méthodes, classes abstraites
 
 - `Exercices_Python_Procedural`  
@@ -97,7 +97,7 @@ Chaque dossier correspond à une thématique précise :
 - `Exercices_NumPy_Pratique`  
   ➤ Utilisation de NumPy pour le calcul numérique et les tableaux
 
-- `POO_Heritage_Mixins`  
+- `Exercices_POO_Heritage_Mixins`  
   ➤ Exercices sur l’héritage multiple, les mixins, la composition de rôles et la coordination de 
   
 - `Projet_Suivi_Sportif`  

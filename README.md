@@ -1,6 +1,6 @@
 # Projet d’Apprentissage Python – Nexa Digital School
 
-Bienvenue dans ce projet d’exercices Python, réalisé dans le cadre de ma formation chez **NEXA**.  
+Bienvenue dans ce projet d’exercices Python, réalisé dans le cadre de ma formation chez **NEXA Digital School**.  
 Il regroupe des **exercices pratiques**, organisés par thème, pour maîtriser les différents aspects du langage Python.
 
 ---
@@ -15,6 +15,25 @@ L’objectif de ce projet est de :
 - Travailler avec **NumPy** pour la manipulation de tableaux
 - Appliquer de bonnes pratiques avec des **fichiers organisés et documentés**
 - Découvrir l’**héritage multiple** et les **Mixins** pour structurer des rôles réutilisables
+
+---
+
+## 🌟 Projet Final : Suivi d’Activité Sportive Connectée
+
+Le dossier `Projet_Suivi_Sportif` est **le projet central de ce dépôt**.  
+Il regroupe et applique **toutes les notions abordées dans les différents exercices**, de la programmation procédurale jusqu’à la programmation orientée objet avancée.
+
+Ce projet complet met en pratique :
+- ✅ Les classes, l’héritage, l'encapsulation, la surcharge de méthodes
+- ✅ Les décorateurs (`@property`, `@staticmethod`, `@classmethod`)
+- ✅ Le polymorphisme et le duck typing
+- ✅ La manipulation de données avec **NumPy**
+- ✅ Les relations d’objets (Coach ↔ Sportifs)
+- ✅ Une architecture claire et réutilisable
+
+🎯 **Objectif** : Créer une application qui permet à des coachs de suivre les performances de leurs sportifs dans différentes disciplines.
+
+👉 Va voir le dossier `Projet_Suivi_Sportif` pour découvrir l’aboutissement de tout ce projet pédagogique !
 
 ---
 
@@ -41,7 +60,10 @@ Chaque dossier correspond à une thématique précise :
   ➤ Utilisation de NumPy pour le calcul numérique et les tableaux
 
 - `POO_Heritage_Mixins`  
-  ➤ Exercices sur l’héritage multiple, les mixins, la composition de rôles et la coordination de méthodes
+  ➤ Exercices sur l’héritage multiple, les mixins, la composition de rôles et la coordination de 
+  
+- `Projet_Suivi_Sportif`  
+  ➤ Projet complet de suivi d’activité sportive connecté. Il regroupe toutes les notions avancées de POO : héritage, encapsulation, décorateurs, surcharge, polymorphisme, duck typing, gestion de relations entre objets et analyse statistique via NumPy. Chaque utilisateur (sportif) peut suivre ses performances, encadré par un coach qui visualise ses progrès. Ce projet met en œuvre une architecture orientée objet complète et fonctionnelle.
 
 ---
 

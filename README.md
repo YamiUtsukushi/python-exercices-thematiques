@@ -5,25 +5,28 @@ Il regroupe des **exercices pratiques**, organisés par thème, pour maîtriser 
 
 ---
 
-## 🎯 Objectif du projet
+## 🎯 Objectif du projet & Projet Final
 
-L’objectif de ce projet est de :
+Ce dépôt a été conçu dans le cadre de ma formation pour apprendre et maîtriser les concepts fondamentaux et avancés du langage Python.
+
+### Objectifs pédagogiques :
+
 - Consolider les **bases de la programmation** avec Python
 - Apprendre à **manipuler les structures de données**
 - Comprendre les principes de la **programmation orientée objet (POO)**
 - S’initier à des concepts avancés comme l’**encapsulation**, les **décorateurs**, l’**héritage**, et les **classes abstraites**
 - Travailler avec **NumPy** pour la manipulation de tableaux
+- Découvrir l’**héritage multiple**, les **Mixins** et le **duck typing**
 - Appliquer de bonnes pratiques avec des **fichiers organisés et documentés**
-- Découvrir l’**héritage multiple** et les **Mixins** pour structurer des rôles réutilisables
 
 ---
 
-## 🌟 Projet Final : Suivi d’Activité Sportive Connectée
+### 🌟 Projet Final : Suivi d’Activité Sportive Connectée
 
 Le dossier `Projet_Suivi_Sportif` est **le projet central de ce dépôt**.  
-Il regroupe et applique **toutes les notions abordées dans les différents exercices**, de la programmation procédurale jusqu’à la programmation orientée objet avancée.
+Il synthétise **l’ensemble des compétences développées** tout au long de la formation à travers une application complète, modulaire et orientée objet.
 
-Ce projet complet met en pratique :
+Ce projet met en pratique :
 - ✅ Les classes, l’héritage, l'encapsulation, la surcharge de méthodes
 - ✅ Les décorateurs (`@property`, `@staticmethod`, `@classmethod`)
 - ✅ Le polymorphisme et le duck typing
@@ -31,9 +34,11 @@ Ce projet complet met en pratique :
 - ✅ Les relations d’objets (Coach ↔ Sportifs)
 - ✅ Une architecture claire et réutilisable
 
-🎯 **Objectif** : Créer une application qui permet à des coachs de suivre les performances de leurs sportifs dans différentes disciplines.
+🎯 **Objectif du projet final** : Créer une application qui permet à des coachs de suivre les performances de leurs sportifs dans différentes disciplines.
 
-👉 Va voir le dossier `Projet_Suivi_Sportif` pour découvrir l’aboutissement de tout ce projet pédagogique !
+👉 Va voir le dossier `Projet_Suivi_Sportif` pour découvrir l’aboutissement de ce projet pédagogique !
+
+
 
 ---
 

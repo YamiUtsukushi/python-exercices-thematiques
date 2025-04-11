@@ -41,6 +41,20 @@ Ce projet met en pratique :
 
 ---
 
+## 📦 Prérequis
+
+Avant d’exécuter ce projet, assure-toi d’avoir les éléments suivants installés sur ta machine :
+
+- **Python 3.8 ou plus récent**
+- **pip** (le gestionnaire de paquets Python)
+- **NumPy** (pour les calculs statistiques)
+
+Tu peux installer les dépendances nécessaires avec la commande suivante :
+
+```bash
+pip install numpy
+```
+
 ## 🗂️ Structure du projet
 
 Chaque dossier correspond à une thématique précise :

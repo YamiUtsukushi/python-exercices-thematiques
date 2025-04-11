@@ -39,7 +39,6 @@ Ce projet met en pratique :
 👉 Va voir le dossier `Projet_Suivi_Sportif` pour découvrir l’aboutissement de ce projet pédagogique !
 
 
-
 ---
 
 ## 🗂️ Structure du projet

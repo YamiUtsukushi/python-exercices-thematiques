@@ -43,7 +43,7 @@ class Sportif(Personne):
 
     def moyenne_activite(self, sport):
         if sport in self._activites and self._activites[sport]:
-            return np.mean(self._activites[sport])
+            return float(np.mean(self._activites[sport]))
         else:
             return None
 
@@ -163,5 +163,4 @@ for sportif in app.lister_sportifs_coach(coach):
     print("-", sportif)
 
 # Rapport global
-print("\n Rapport global :")
 app.rapport_global()
